@@ -1,5 +1,5 @@
 # SnakeGame
-#This is SnakeGame created using Javascript, HTML and CSS.  
+This is SnakeGame created using Javascript, HTML and CSS.  
 1)Use Arrow Keys on Keyboard to play the game.  
 2)As soon as snake eats food score would be increamented by 1.  
 3)if score becomes greater than current Highest Score then Highest Score would be updated accordingly.  
